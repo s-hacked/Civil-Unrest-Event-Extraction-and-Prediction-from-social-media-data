@@ -1,0 +1,11 @@
+torch
+transformers
+sentencepiece
+accelerate
+gradio
+pandas
+numpy
+scikit-learn
+spacy
+dateparser
+tensorflow
